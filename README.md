@@ -18,17 +18,26 @@ The Writer then revises based on the Evaluator's feedback. This repeats until th
 ## How It Works
 User sends topic + rough notes
 ↓
+
+
 ┌─────────────┐
 │ Writer │ ← produces or revises draft
 └─────────────┘
+
+
 ↓
 ┌─────────────┐
 │ Evaluator │ ← critiques the draft
 └─────────────┘
+
+
 ↓
 Approved? ── No ──→ back to Writer (with feedback)
+
 │
+
 Yes
+
 ↓
 Return final draft + feedback history
 
