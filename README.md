@@ -20,15 +20,12 @@ User sends topic + rough notes
 ↓
 
 
-┌─────────────┐
 │ Writer │ ← produces or revises draft
-└─────────────┘
 
 
 ↓
-┌─────────────┐
+
 │ Evaluator │ ← critiques the draft
-└─────────────┘
 
 
 ↓
